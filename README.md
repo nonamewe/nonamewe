@@ -34,8 +34,11 @@
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamewe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-</div>
+## `~/another-stats`
 
+</div>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nonamewe&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nonamewe&show_icons=true&theme=tokyonight)
 
 ---
 

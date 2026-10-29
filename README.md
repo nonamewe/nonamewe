@@ -1,61 +1,49 @@
-```md
-<div align="center">
+ <div align="center">
 
 # `nonamewe@github:~$`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Learning+Go;Running+Gentoo+Linux;Building+things+step+by+step;Изучаю.+Экспериментирую.+Разбираюсь." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Go+%7C+Linux+%7C+Open+Source;Learning+by+building." alt="Typing SVG" />
 
-**Go learner · Gentoo Linux user**
-
-`learn` · `build` · `debug` · `repeat`
+![Profile Views](https://komarev.com/ghpvc/?username=nonamewe&style=flat-square&color=7AA2F7)
+[![GitHub followers](https://img.shields.io/github/followers/nonamewe?style=flat-square&color=7AA2F7&label=Followers)](https://github.com/nonamewe?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/nonamewe?style=flat-square&color=7AA2F7&label=Stars)](https://github.com/nonamewe?tab=repositories)
 
 </div>
 
 ---
 
-```console
-$ whoami
-nonamewe
+## `~/languages`
 
-$ cat /etc/os-release
-Gentoo Linux
+<div align="center">
 
-$ go version
-Learning Go — one step at a time.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamewe&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" height="200" alt="Top languages" />
 
-$ echo $LANG
-en_US.UTF-8 / ru_RU.UTF-8
-```
+</div>
 
-## `~/about`
+## `~/technologies`
 
-**nonamewe**.
+<div align="center">
 
-I'm learning **Golang** 
+[![My Skills](https://skillicons.dev/icons?i=go,bash,linux,git,github,arkts&theme=dark)](https://skillicons.dev)
 
-## `~/environment`
+</div>
 
-![Go](https://img.shields.io/badge/Go-learning-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gentoo Linux](https://img.shields.io/badge/Gentoo-Linux-54487A?style=flat-square&logo=gentoo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-version_control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-profile-181717?style=flat-square&logo=github&logoColor=white)
+## `~/github-stats`
 
-## `~/github-activity`
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nonamewe&theme=tokyo-night&hide_border=true)
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamewe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-## `~/stats`
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonamewe&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 <div align="center">
 
-```console
-$ echo "まだ学んでいる。Still learning."
+```text
+$ git status
+Learning. Building. Improving.
 ```
-
 
 </div>
-```

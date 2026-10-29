@@ -1,0 +1,20 @@
+
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: nonamewe
+          theme: tokyonight

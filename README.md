@@ -12,4 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=go,bash,linux,git,github,arkts&theme=dark)](https://skillicons.dev)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nonamewe&theme=tokyonight&no-frame=true&no-bg=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonamewe&show_icons=true&theme=tokyonight)

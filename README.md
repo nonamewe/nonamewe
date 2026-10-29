@@ -9,4 +9,4 @@
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,gentoo,linux,git,github,arkts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,linux,git,github,arkts&theme=dark)](https://skillicons.dev)

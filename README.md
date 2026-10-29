@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # `nonamewe@github:~$`
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamewe&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" height="200" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamewe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
 
 </div>
 
@@ -32,13 +32,19 @@
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nonamewe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamewe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-## `~/another-stats`
+</div>
+
+## `~/activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nonamewe&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
 
 </div>
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nonamewe&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nonamewe&show_icons=true&theme=tokyonight)
 
 ---
 

@@ -11,12 +11,17 @@
 </div>
 
 ---
-<p align="right">
+
+
+<p align="center">
   <img src="gentoo.gif" width="200" height="200" alt="gentoo">
+  <img src="tenor(1).gif" width="200" height="250" alt="gentoo">
+
+  <img src="tenor.gif" width="200" height="200" alt="gentoo">
 </p>
 
 
-
+---
 
 
 ## `~/languages`

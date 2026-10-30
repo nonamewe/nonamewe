@@ -12,6 +12,11 @@
 
 ---
 
+
+![Gameplay preview](gentoo.gif)
+
+
+
 ## `~/languages`
 
 <div align="center">

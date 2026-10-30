@@ -11,9 +11,11 @@
 </div>
 
 ---
+<p align="right">
+  <img src="gentoo.gif" width="200" height="200" alt="gentoo">
+</p>
 
 
-![Gameplay preview](gentoo.gif)
 
 
 

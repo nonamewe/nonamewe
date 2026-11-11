@@ -23,15 +23,6 @@
 
 ---
 
-
-## `~/languages`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamewe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
-
-</div>
-
 ## `~/technologies`
 
 <div align="center">
@@ -48,21 +39,4 @@
 
 </div>
 
-## `~/activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nonamewe&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-
-</div>
-
 ---
-
-<div align="center">
-
-```text
-$ git status
-Learning. Building. Improving.
-```
-
-</div>
